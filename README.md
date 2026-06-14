@@ -54,6 +54,18 @@ flowchart TD
     class research,writer,reviewer stub
 ```
 
+## Roadmap
+
+The project is built in 4 phases, ordered by technical dependencies — each
+with a working, demoable deliverable.
+
+| Phase | Focus | Deliverable |
+|---|---|---|
+| **1. LangGraph + Pydantic** (current) | Full graph with all 5 agents, GPT-4o everywhere, no fine-tuning yet | End-to-end flow on a real tender PDF, with shared state, conditional edges, and a working Writer ↔ Reviewer revision loop |
+| **2. MCP integrations** (future) | Web MCP (Brave Search), Notion MCP, Git MCP | Research Agent searches the web in real time; the final proposal is auto-exported to Notion and versioned via Git |
+| **3. Fine-tuning** (future) | QLoRA fine-tuned LLaMA 3.2 for the Extractor Agent, deployed on Modal, replacing GPT-4o | Accuracy/cost benchmark of the fine-tuned model vs. the GPT-4o baseline |
+| **4. UI & observability** (future) | Gradio interface to upload a PDF and watch the pipeline run; LangSmith tracing | Recordable end-to-end demo |
+
 ## Current state (Phase 1)
 
 | Agent | Status |
