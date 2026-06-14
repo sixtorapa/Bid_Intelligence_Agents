@@ -1,0 +1,1555 @@
+{
+  "por_fragmento": [
+    0,
+    5,
+    13,
+    21,
+    17,
+    22,
+    27,
+    19,
+    10
+  ],
+  "total_bruto": 134,
+  "total_consolidado": 122,
+  "brutos": [
+    {
+      "tipo": "economico",
+      "descripcion": "Presupuesto Base de Licitación",
+      "obligatorio": true,
+      "valor": "7.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Valor Estimado del Contrato",
+      "obligatorio": true,
+      "valor": "40.753.916,10 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Aportaciones públicas a la Construcción",
+      "obligatorio": true,
+      "valor": "2.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Aportaciones públicas a la Explotación",
+      "obligatorio": true,
+      "valor": "5.000.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Aportaciones públicas a la explotación por año",
+      "obligatorio": true,
+      "valor": "250.000 €/año"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Presupuesto Base de Licitación",
+      "obligatorio": true,
+      "valor": "7.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Valor Estimado del Contrato",
+      "obligatorio": true,
+      "valor": "40.753.916,10 €"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Plazo máximo para la elaboración del proyecto de las obras",
+      "obligatorio": true,
+      "valor": "6 meses"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Plazo para la ejecución de las obras",
+      "obligatorio": true,
+      "valor": "18 meses"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Plazo máximo de explotación de las obras",
+      "obligatorio": true,
+      "valor": "20 años"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Duración total máxima del contrato",
+      "obligatorio": true,
+      "valor": "22 años"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Prórrogas",
+      "obligatorio": true,
+      "valor": "Sin posibilidad de prórrogas"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Criterios matemáticos",
+      "obligatorio": false,
+      "valor": "55"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Criterios cuya ponderación depende de un juicio de valor",
+      "obligatorio": false,
+      "valor": "45"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión",
+      "obligatorio": false,
+      "valor": "25"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación",
+      "obligatorio": false,
+      "valor": "20"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción Plazo entrega de proyecto y ejecución de las obras",
+      "obligatorio": false,
+      "valor": "5"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de la explotación",
+      "obligatorio": false,
+      "valor": "5"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión",
+      "obligatorio": false,
+      "valor": "25"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación",
+      "obligatorio": false,
+      "valor": "20"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción Plazo entrega de proyecto y ejecución de las obras",
+      "obligatorio": false,
+      "valor": "5"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de la explotación",
+      "obligatorio": false,
+      "valor": "5"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión - Fórmula de cálculo",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación - Fórmula de cálculo",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras - Reducción en 1 mes",
+      "obligatorio": false,
+      "valor": "2.5"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras - Reducción en 2 meses",
+      "obligatorio": false,
+      "valor": "5"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de duración de la explotación - Fórmula de cálculo",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Presentación de justificación técnica para reducción de plazos de entrega de proyecto y ejecución de las obras",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Presentación de justificación para reducción del plazo de explotación",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero completo",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Sistema de tarifas propuesto",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Inversión total y plan de inversiones desglosado por anualidades",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Costes de explotación detallados",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Cálculo de la TIR o tasa interna de retorno estimada",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Obligaciones de pago y gastos financieros estimados",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Análisis de sensibilidad ante variaciones de la demanda",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Memoria Técnica - Estructura de la documentación técnica",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Memoria Técnica - Anteproyecto",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Memoria Técnica - Plan de control y aseguramiento de la calidad de la obra",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Calidad arquitectónica, técnica y funcional del anteproyecto",
+      "obligatorio": false,
+      "valor": "13,50 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Sostenibilidad, eficiencia y soluciones constructivas",
+      "obligatorio": false,
+      "valor": "8,10 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Plan de control y aseguramiento de la calidad de la obra",
+      "obligatorio": false,
+      "valor": "5,40 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Proyecto de gestión, organización del servicio y seguimiento con el Ayuntamiento",
+      "obligatorio": false,
+      "valor": "5,00 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Equipamiento deportivo",
+      "obligatorio": false,
+      "valor": "5,00 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Mantenimiento, conservación y operatividad",
+      "obligatorio": false,
+      "valor": "5,00 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Plan de implantación inicial, comunicación, marketing y fidelización",
+      "obligatorio": false,
+      "valor": "3,00 puntos"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Estructura de la documentación técnica en el Sobre B en formato PDF, debidamente indexada, ordenada e identificada",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Anteproyecto como documento independiente para valoración de criterios de la fase de obra",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan de control y aseguramiento de la calidad de la obra como documento independiente con extensión máxima de 10 páginas A4",
+      "obligatorio": true,
+      "valor": "10 páginas A4"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Proyecto de explotación estructurado en apartados diferenciados para cada criterio de la fase de explotación",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Documentación técnica debe seguir el orden de los criterios sujetos a juicio de valor",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Documentos del Plan de control y aseguramiento de la calidad de la obra y Proyecto de explotación en formato A4, letra no inferior a 10 puntos e interlineado 1,5",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Extensión máxima de la documentación técnica según tabla de criterios sujetos a juicio de valor",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Especificar qué partes de la oferta son confidenciales, no se admiten declaraciones genéricas",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "No incluir referencias a precios u otra información económica en la documentación técnica",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Alcanzar al menos un umbral mínimo del 50% sobre el total de los criterios sujetos a juicio de valor",
+      "obligatorio": true,
+      "valor": "50%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Incorporación de medidas y soluciones que mejoren la sostenibilidad, eficiencia y racionalidad técnica de los sistemas constructivos.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Incorporación de estrategias pasivas de ahorro y eficiencia energética.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Idoneidad de las soluciones constructivas desde el punto de vista técnico y funcional.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Racionalidad en la elección de materiales y sistemas, durabilidad y facilidad de conservación.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Previsión de medidas que favorezcan la reducción de consumos energéticos e hídricos.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Coherencia entre diseño arquitectónico, instalaciones y comportamiento energético del edificio.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Contribución a una explotación futura más eficiente y sostenible.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Adecuada justificación de las medidas planteadas, su viabilidad real y coherencia con el anteproyecto.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Calidad, claridad, grado de desarrollo y aplicabilidad del plan de control y aseguramiento de la calidad de la obra.",
+      "obligatorio": false,
+      "valor": "5.40"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan de control y aseguramiento de la calidad de la obra.",
+      "obligatorio": true,
+      "valor": "10 páginas A4"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Calidad del modelo de gestión propuesto para la explotación del centro y organización del servicio.",
+      "obligatorio": false,
+      "valor": "5.00"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Proyecto de gestión, organización del servicio y seguimiento con el Ayuntamiento.",
+      "obligatorio": true,
+      "valor": "14 páginas A4"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Adecuación, calidad, funcionalidad y coherencia del equipamiento deportivo propuesto.",
+      "obligatorio": false,
+      "valor": "5.00"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Proyecto de explotación para el equipamiento deportivo.",
+      "obligatorio": true,
+      "valor": "14 páginas A4"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Calidad y completitud del plan de mantenimiento y conservación de la instalación.",
+      "obligatorio": false,
+      "valor": "5.00"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Proyecto de explotación para el plan de mantenimiento, conservación y operatividad.",
+      "obligatorio": true,
+      "valor": "14 páginas A4"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Calidad de la propuesta de implantación inicial, comunicación, marketing y fidelización.",
+      "obligatorio": false,
+      "valor": "3.00"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Proyecto de explotación para el plan de implantación inicial, comunicación, marketing y fidelización.",
+      "obligatorio": true,
+      "valor": "10 páginas A4"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de explotación.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras - Un licitador: se considerará temeraria la oferta que sea inferior al plazo en más de un 25%.",
+      "obligatorio": false,
+      "valor": "25%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras - Dos licitadores: se considerará temeraria la oferta que sea inferior en más de un 20% al plazo ofertado por el otro licitador.",
+      "obligatorio": false,
+      "valor": "20%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras - Tres o más licitadores: se considerará temeraria la oferta que sea inferior en más de un 10% a la media de los plazos ofertados.",
+      "obligatorio": false,
+      "valor": "10%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de explotación - Un licitador: se considerará temeraria la oferta que sea inferior al plazo en más de un 25%.",
+      "obligatorio": false,
+      "valor": "25%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de explotación - Dos licitadores: se considerará temeraria la oferta que sea inferior en más de un 20% al plazo ofertado por el otro licitador.",
+      "obligatorio": false,
+      "valor": "20%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de explotación - Tres o más licitadores: se considerará temeraria la oferta que sea inferior en más de un 10% a la media de los plazos ofertados.",
+      "obligatorio": false,
+      "valor": "10%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión - Un licitador: se considerará temeraria la oferta que sea inferior en más de un 25% a la aportación establecida en el pliego.",
+      "obligatorio": false,
+      "valor": "25%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión - Dos licitadores: se considerará temeraria la oferta que sea inferior en más de un 20% a la aportación ofertada por el otro licitador.",
+      "obligatorio": false,
+      "valor": "20%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión - Tres o más licitadores: se considerará temeraria la oferta que sea inferior en más de un 10% a la media aritmética de las aportaciones ofertadas.",
+      "obligatorio": false,
+      "valor": "10%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación - Un licitador: se considerará temeraria la oferta que sea inferior en más de un 25% a la aportación establecida en el pliego.",
+      "obligatorio": false,
+      "valor": "25%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación - Dos licitadores: se considerará temeraria la oferta que sea inferior en más de un 20% a la aportación ofertada por el otro licitador.",
+      "obligatorio": false,
+      "valor": "20%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación - Tres o más licitadores: se considerará temeraria la oferta que sea inferior en más de un 10% a la media aritmética de las aportaciones ofertadas.",
+      "obligatorio": false,
+      "valor": "10%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Conjunto de criterios sujetos a juicio de valor: se considerará temeraria la oferta que supere en más de 10 unidades porcentuales la media de las puntuaciones obtenidas en dichos criterios.",
+      "obligatorio": false,
+      "valor": "10 unidades porcentuales"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Plazo para justificar la viabilidad de la propuesta en caso de oferta anormalmente baja.",
+      "obligatorio": true,
+      "valor": "5 días naturales (prorrogable hasta 10)"
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Clasificación empresarial necesaria para la ejecución de las obras: Grupo C, Subgrupo Todos, Categoría 6.",
+      "obligatorio": true,
+      "valor": "Grupo C, Subgrupo Todos, Categoría 6"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Volumen anual de negocios: Acreditar una cifra anual de negocios igual o superior al valor anual medio del contrato.",
+      "obligatorio": true,
+      "valor": "2.037.695,81 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Patrimonio neto: Disponer de un patrimonio neto equivalente al valor de la anualidad media del contrato.",
+      "obligatorio": true,
+      "valor": "2.037.695,81 €"
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Relación de los principales contratos de características similares ejecutados en los tres últimos ejercicios, con certificados de buena ejecución de al menos una concesión de complejo deportivo con piscina cubierta o similar.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Indicación del personal técnico encargado del control de calidad, con al menos un técnico de grado medio como director técnico de calidad.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Declaración sobre la vigencia del certificado de clasificación administrativa y de las circunstancias que sirvieron de base para su obtención.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Declaración de que los medios personales cuentan con la titulación profesional y experiencia correspondiente a proyectos, obras y servicios de naturaleza análoga.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Redactor del Proyecto: Arquitecto, Ingeniero o titulación competente con 5 años de experiencia y una redacción de proyectos de obras de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Director de Obras: Arquitecto, Ingeniero o titulación competente con 5 años de experiencia y una obra de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Director de Ejecución: Arquitecto técnico, Ingeniero técnico o titulación competente con 5 años de experiencia y una obra de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Coordinador de la Seguridad y la Salud: Arquitecto, Arquitecto técnico, Ingeniero o Ingeniero técnico con 3 años de experiencia y una obra de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Jefe de Obras: Arquitecto Superior con 5 años de experiencia y una obra de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Ingeniero de Caminos: Ingeniero de Caminos especialista en estructuras con 5 años de experiencia y una obra de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Declaración de medios personales con titulación y experiencia para el contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Redactor del Proyecto: Arquitecto, Ingeniero o titulación competente con 5 años de antigüedad y experiencia en proyectos de obras análogas con presupuesto de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Director de Obras: Arquitecto, Ingeniero o titulación competente con 5 años de antigüedad y experiencia en obras de naturaleza análoga con presupuesto de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Director de Ejecución: Arquitecto técnico, Ingeniero técnico o titulación competente con 5 años de antigüedad y experiencia en obras de naturaleza análoga con presupuesto de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Coordinador de la Seguridad y la Salud: Arquitecto, Arquitecto técnico, Ingeniero o Ingeniero técnico con 3 años de antigüedad y experiencia en obras de naturaleza análoga con presupuesto de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Jefe de Obras: Arquitecto Superior con 5 años de antigüedad y experiencia en obras de naturaleza análoga con presupuesto de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Ingeniero de Caminos: Especialista en estructuras con 5 años de antigüedad y experiencia en obras de naturaleza análoga con presupuesto de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Ingeniero Industrial: Especialista en instalaciones con 5 años de antigüedad y experiencia en obras de naturaleza análoga con presupuesto de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Arquitectos Técnicos: 2 personas con 5 años de antigüedad y experiencia en obras de naturaleza análoga con presupuesto de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Director del Centro Deportivo: Titulación en Grado en Ciencias de la Actividad Física y del Deporte con 5 años de experiencia en puestos equivalentes.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Coordinador del Centro Deportivo: Titulación en Grado en Ciencias de la Actividad Física y del Deporte con 5 años de experiencia en puestos equivalentes.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Constitución de una garantía definitiva equivalente al 5% del valor estimado de la inversión de obra.",
+      "obligatorio": true,
+      "valor": "5%"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Constitución de una garantía definitiva específica para la fase de explotación, equivalente al 5% del valor estimado como rendimiento neto de tres anualidades.",
+      "obligatorio": true,
+      "valor": "5%"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "La garantía definitiva podrá constituirse en efectivo, aval bancario o contrato de seguro de caución.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Acreditación de la constitución de la garantía mediante medios electrónicos.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Comunicación por escrito de la parte de la prestación que se pretende subcontratar, indicando su importe y la identidad del subcontratista.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Aportaciones públicas para la construcción de la Piscina Cubierta Municipal, máximo 2.500.000 €.",
+      "obligatorio": false,
+      "valor": "2.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Aportaciones públicas para la explotación, máximo 250.000 € anuales.",
+      "obligatorio": false,
+      "valor": "250.000 € anuales"
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "El concesionario deberá haber aprobado, mantener actualizado y efectuar las labores de implementación necesarias de un plan de igualdad entre hombres y mujeres conforme a la normativa aplicable.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "El contratista deberá comunicar por escrito la parte de la prestación que se pretende subcontratar, indicando su importe.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "El contratista deberá comunicar por escrito la identidad del subcontratista, justificando suficientemente la aptitud de éste para ejecutarla por referencia a los elementos técnicos y humanos de que dispone y a su experiencia.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Las aportaciones públicas destinadas a la construcción de la Piscina Cubierta Municipal se realizarán mediante certificaciones de obra, con un máximo de 2.500.000 € en función de la oferta del adjudicatario.",
+      "obligatorio": true,
+      "valor": "2.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Las aportaciones públicas destinadas a la explotación serán un máximo de 250.000 euros anuales, en función de la baja ofertada por el adjudicatario.",
+      "obligatorio": true,
+      "valor": "250.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Los gastos asociados al contrato alcanzarían como máximo la cantidad de 7.500.000 €, IVA incluido, en un total de 22 años.",
+      "obligatorio": true,
+      "valor": "7.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "El primer año se desembolsará la totalidad de 2.500.000 € de ayuda a la construcción.",
+      "obligatorio": true,
+      "valor": "2.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "El Ayuntamiento otorgará al concesionario las aportaciones establecidas en la cláusula cuarta del Pliego para garantizar la viabilidad económica de la explotación de las obras.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Las tarifas máximas para los servicios y actividades ofrecidos, como abonos, actividades acuáticas, cursos de natación, etc., se establecen con precios específicos para cada modalidad.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "El riesgo operacional le corresponderá al contratista, quien deberá asumir el riesgo derivado de la exposición a las incertidumbres del mercado, la competencia de otros operadores, los desajustes entre la oferta y la demanda de los servicios, la insolvencia de los usuarios por los servicios prestados y la responsabilidad por los perjuicios causados.",
+      "obligatorio": true,
+      "valor": null
+    }
+  ],
+  "consolidados": [
+    {
+      "tipo": "economico",
+      "descripcion": "Presupuesto Base de Licitación",
+      "obligatorio": true,
+      "valor": "7.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Valor Estimado del Contrato",
+      "obligatorio": true,
+      "valor": "40.753.916,10 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Aportaciones públicas a la Construcción",
+      "obligatorio": true,
+      "valor": "2.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Aportaciones públicas a la Explotación",
+      "obligatorio": true,
+      "valor": "5.000.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Aportaciones públicas a la explotación por año",
+      "obligatorio": true,
+      "valor": "250.000 €/año"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Plazo máximo para la elaboración del proyecto de las obras",
+      "obligatorio": true,
+      "valor": "6 meses"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Plazo para la ejecución de las obras",
+      "obligatorio": true,
+      "valor": "18 meses"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Plazo máximo de explotación de las obras",
+      "obligatorio": true,
+      "valor": "20 años"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Duración total máxima del contrato",
+      "obligatorio": true,
+      "valor": "22 años"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Prórrogas",
+      "obligatorio": true,
+      "valor": "Sin posibilidad de prórrogas"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Criterios matemáticos",
+      "obligatorio": false,
+      "valor": "55"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Criterios cuya ponderación depende de un juicio de valor",
+      "obligatorio": false,
+      "valor": "45"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión",
+      "obligatorio": false,
+      "valor": "25"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación",
+      "obligatorio": false,
+      "valor": "20"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción Plazo entrega de proyecto y ejecución de las obras",
+      "obligatorio": false,
+      "valor": "5"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de la explotación",
+      "obligatorio": false,
+      "valor": "5"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión - Fórmula de cálculo",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación - Fórmula de cálculo",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras - Reducción en 1 mes",
+      "obligatorio": false,
+      "valor": "2.5"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras - Reducción en 2 meses",
+      "obligatorio": false,
+      "valor": "5"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de duración de la explotación - Fórmula de cálculo",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Presentación de justificación técnica para reducción de plazos de entrega de proyecto y ejecución de las obras",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Presentación de justificación para reducción del plazo de explotación",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero completo",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Sistema de tarifas propuesto",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Inversión total y plan de inversiones desglosado por anualidades",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Costes de explotación detallados",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Cálculo de la TIR o tasa interna de retorno estimada",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Obligaciones de pago y gastos financieros estimados",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan económico-financiero - Análisis de sensibilidad ante variaciones de la demanda",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Memoria Técnica - Estructura de la documentación técnica",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Memoria Técnica - Anteproyecto",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Memoria Técnica - Plan de control y aseguramiento de la calidad de la obra",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Calidad arquitectónica, técnica y funcional del anteproyecto",
+      "obligatorio": false,
+      "valor": "13,50 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Sostenibilidad, eficiencia y soluciones constructivas",
+      "obligatorio": false,
+      "valor": "8,10 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Plan de control y aseguramiento de la calidad de la obra",
+      "obligatorio": false,
+      "valor": "5,40 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Proyecto de gestión, organización del servicio y seguimiento con el Ayuntamiento",
+      "obligatorio": false,
+      "valor": "5,00 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Equipamiento deportivo",
+      "obligatorio": false,
+      "valor": "5,00 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Mantenimiento, conservación y operatividad",
+      "obligatorio": false,
+      "valor": "5,00 puntos"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Plan de implantación inicial, comunicación, marketing y fidelización",
+      "obligatorio": false,
+      "valor": "3,00 puntos"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Estructura de la documentación técnica en el Sobre B en formato PDF, debidamente indexada, ordenada e identificada",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Anteproyecto como documento independiente para valoración de criterios de la fase de obra",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan de control y aseguramiento de la calidad de la obra como documento independiente con extensión máxima de 10 páginas A4",
+      "obligatorio": true,
+      "valor": "10 páginas A4"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Proyecto de explotación estructurado en apartados diferenciados para cada criterio de la fase de explotación",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Documentación técnica debe seguir el orden de los criterios sujetos a juicio de valor",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Documentos del Plan de control y aseguramiento de la calidad de la obra y Proyecto de explotación en formato A4, letra no inferior a 10 puntos e interlineado 1,5",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Extensión máxima de la documentación técnica según tabla de criterios sujetos a juicio de valor",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Especificar qué partes de la oferta son confidenciales, no se admiten declaraciones genéricas",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "No incluir referencias a precios u otra información económica en la documentación técnica",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Alcanzar al menos un umbral mínimo del 50% sobre el total de los criterios sujetos a juicio de valor",
+      "obligatorio": true,
+      "valor": "50%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Incorporación de medidas y soluciones que mejoren la sostenibilidad, eficiencia y racionalidad técnica de los sistemas constructivos.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Incorporación de estrategias pasivas de ahorro y eficiencia energética.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Idoneidad de las soluciones constructivas desde el punto de vista técnico y funcional.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Racionalidad en la elección de materiales y sistemas, durabilidad y facilidad de conservación.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Previsión de medidas que favorezcan la reducción de consumos energéticos e hídricos.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Coherencia entre diseño arquitectónico, instalaciones y comportamiento energético del edificio.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Contribución a una explotación futura más eficiente y sostenible.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Adecuada justificación de las medidas planteadas, su viabilidad real y coherencia con el anteproyecto.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Calidad, claridad, grado de desarrollo y aplicabilidad del plan de control y aseguramiento de la calidad de la obra.",
+      "obligatorio": false,
+      "valor": "5.40"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Plan de control y aseguramiento de la calidad de la obra.",
+      "obligatorio": true,
+      "valor": "10 páginas A4"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Calidad del modelo de gestión propuesto para la explotación del centro y organización del servicio.",
+      "obligatorio": false,
+      "valor": "5.00"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Proyecto de gestión, organización del servicio y seguimiento con el Ayuntamiento.",
+      "obligatorio": true,
+      "valor": "14 páginas A4"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Adecuación, calidad, funcionalidad y coherencia del equipamiento deportivo propuesto.",
+      "obligatorio": false,
+      "valor": "5.00"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Proyecto de explotación para el equipamiento deportivo.",
+      "obligatorio": true,
+      "valor": "14 páginas A4"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Calidad y completitud del plan de mantenimiento y conservación de la instalación.",
+      "obligatorio": false,
+      "valor": "5.00"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Proyecto de explotación para el plan de mantenimiento, conservación y operatividad.",
+      "obligatorio": true,
+      "valor": "14 páginas A4"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Calidad de la propuesta de implantación inicial, comunicación, marketing y fidelización.",
+      "obligatorio": false,
+      "valor": "3.00"
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Proyecto de explotación para el plan de implantación inicial, comunicación, marketing y fidelización.",
+      "obligatorio": true,
+      "valor": "10 páginas A4"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de explotación.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación.",
+      "obligatorio": false,
+      "valor": null
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras - Un licitador: se considerará temeraria la oferta que sea inferior al plazo en más de un 25%.",
+      "obligatorio": false,
+      "valor": "25%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras - Dos licitadores: se considerará temeraria la oferta que sea inferior en más de un 20% al plazo ofertado por el otro licitador.",
+      "obligatorio": false,
+      "valor": "20%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de los plazos de entrega de proyecto y ejecución de las obras - Tres o más licitadores: se considerará temeraria la oferta que sea inferior en más de un 10% a la media de los plazos ofertados.",
+      "obligatorio": false,
+      "valor": "10%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de explotación - Un licitador: se considerará temeraria la oferta que sea inferior al plazo en más de un 25%.",
+      "obligatorio": false,
+      "valor": "25%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de explotación - Dos licitadores: se considerará temeraria la oferta que sea inferior en más de un 20% al plazo ofertado por el otro licitador.",
+      "obligatorio": false,
+      "valor": "20%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción del plazo de explotación - Tres o más licitadores: se considerará temeraria la oferta que sea inferior en más de un 10% a la media de los plazos ofertados.",
+      "obligatorio": false,
+      "valor": "10%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión - Un licitador: se considerará temeraria la oferta que sea inferior en más de un 25% a la aportación establecida en el pliego.",
+      "obligatorio": false,
+      "valor": "25%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión - Dos licitadores: se considerará temeraria la oferta que sea inferior en más de un 20% a la aportación ofertada por el otro licitador.",
+      "obligatorio": false,
+      "valor": "20%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la inversión - Tres o más licitadores: se considerará temeraria la oferta que sea inferior en más de un 10% a la media aritmética de las aportaciones ofertadas.",
+      "obligatorio": false,
+      "valor": "10%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación - Un licitador: se considerará temeraria la oferta que sea inferior en más de un 25% a la aportación establecida en el pliego.",
+      "obligatorio": false,
+      "valor": "25%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación - Dos licitadores: se considerará temeraria la oferta que sea inferior en más de un 20% a la aportación ofertada por el otro licitador.",
+      "obligatorio": false,
+      "valor": "20%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Reducción de la aportación municipal a la explotación - Tres o más licitadores: se considerará temeraria la oferta que sea inferior en más de un 10% a la media aritmética de las aportaciones ofertadas.",
+      "obligatorio": false,
+      "valor": "10%"
+    },
+    {
+      "tipo": "criterio_adjudicacion",
+      "descripcion": "Conjunto de criterios sujetos a juicio de valor: se considerará temeraria la oferta que supere en más de 10 unidades porcentuales la media de las puntuaciones obtenidas en dichos criterios.",
+      "obligatorio": false,
+      "valor": "10 unidades porcentuales"
+    },
+    {
+      "tipo": "temporal",
+      "descripcion": "Plazo para justificar la viabilidad de la propuesta en caso de oferta anormalmente baja.",
+      "obligatorio": true,
+      "valor": "5 días naturales (prorrogable hasta 10)"
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Clasificación empresarial necesaria para la ejecución de las obras: Grupo C, Subgrupo Todos, Categoría 6.",
+      "obligatorio": true,
+      "valor": "Grupo C, Subgrupo Todos, Categoría 6"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Volumen anual de negocios: Acreditar una cifra anual de negocios igual o superior al valor anual medio del contrato.",
+      "obligatorio": true,
+      "valor": "2.037.695,81 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Patrimonio neto: Disponer de un patrimonio neto equivalente al valor de la anualidad media del contrato.",
+      "obligatorio": true,
+      "valor": "2.037.695,81 €"
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Relación de los principales contratos de características similares ejecutados en los tres últimos ejercicios, con certificados de buena ejecución de al menos una concesión de complejo deportivo con piscina cubierta o similar.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Indicación del personal técnico encargado del control de calidad, con al menos un técnico de grado medio como director técnico de calidad.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Declaración sobre la vigencia del certificado de clasificación administrativa y de las circunstancias que sirvieron de base para su obtención.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Declaración de que los medios personales cuentan con la titulación profesional y experiencia correspondiente a proyectos, obras y servicios de naturaleza análoga.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Redactor del Proyecto: Arquitecto, Ingeniero o titulación competente con 5 años de experiencia y una redacción de proyectos de obras de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Director de Obras: Arquitecto, Ingeniero o titulación competente con 5 años de experiencia y una obra de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Director de Ejecución: Arquitecto técnico, Ingeniero técnico o titulación competente con 5 años de experiencia y una obra de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Coordinador de la Seguridad y la Salud: Arquitecto, Arquitecto técnico, Ingeniero o Ingeniero técnico con 3 años de experiencia y una obra de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Jefe de Obras: Arquitecto Superior con 5 años de experiencia y una obra de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Ingeniero de Caminos: Ingeniero de Caminos especialista en estructuras con 5 años de experiencia y una obra de naturaleza análoga y de presupuesto de ejecución material de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Declaración de medios personales con titulación y experiencia para el contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Ingeniero Industrial: Especialista en instalaciones con 5 años de antigüedad y experiencia en obras de naturaleza análoga con presupuesto de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Arquitectos Técnicos: 2 personas con 5 años de antigüedad y experiencia en obras de naturaleza análoga con presupuesto de al menos el 80% del contrato.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Director del Centro Deportivo: Titulación en Grado en Ciencias de la Actividad Física y del Deporte con 5 años de experiencia en puestos equivalentes.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "Coordinador del Centro Deportivo: Titulación en Grado en Ciencias de la Actividad Física y del Deporte con 5 años de experiencia en puestos equivalentes.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Constitución de una garantía definitiva equivalente al 5% del valor estimado de la inversión de obra.",
+      "obligatorio": true,
+      "valor": "5%"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Constitución de una garantía definitiva específica para la fase de explotación, equivalente al 5% del valor estimado como rendimiento neto de tres anualidades.",
+      "obligatorio": true,
+      "valor": "5%"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "La garantía definitiva podrá constituirse en efectivo, aval bancario o contrato de seguro de caución.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Acreditación de la constitución de la garantía mediante medios electrónicos.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "Comunicación por escrito de la parte de la prestación que se pretende subcontratar, indicando su importe y la identidad del subcontratista.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Aportaciones públicas para la construcción de la Piscina Cubierta Municipal, máximo 2.500.000 €.",
+      "obligatorio": false,
+      "valor": "2.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Aportaciones públicas para la explotación, máximo 250.000 € anuales.",
+      "obligatorio": false,
+      "valor": "250.000 € anuales"
+    },
+    {
+      "tipo": "tecnico",
+      "descripcion": "El concesionario deberá haber aprobado, mantener actualizado y efectuar las labores de implementación necesarias de un plan de igualdad entre hombres y mujeres conforme a la normativa aplicable.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "El contratista deberá comunicar por escrito la parte de la prestación que se pretende subcontratar, indicando su importe.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "documental",
+      "descripcion": "El contratista deberá comunicar por escrito la identidad del subcontratista, justificando suficientemente la aptitud de éste para ejecutarla por referencia a los elementos técnicos y humanos de que dispone y a su experiencia.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Las aportaciones públicas destinadas a la construcción de la Piscina Cubierta Municipal se realizarán mediante certificaciones de obra, con un máximo de 2.500.000 € en función de la oferta del adjudicatario.",
+      "obligatorio": true,
+      "valor": "2.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Las aportaciones públicas destinadas a la explotación serán un máximo de 250.000 euros anuales, en función de la baja ofertada por el adjudicatario.",
+      "obligatorio": true,
+      "valor": "250.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Los gastos asociados al contrato alcanzarían como máximo la cantidad de 7.500.000 €, IVA incluido, en un total de 22 años.",
+      "obligatorio": true,
+      "valor": "7.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "El primer año se desembolsará la totalidad de 2.500.000 € de ayuda a la construcción.",
+      "obligatorio": true,
+      "valor": "2.500.000 €"
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "El Ayuntamiento otorgará al concesionario las aportaciones establecidas en la cláusula cuarta del Pliego para garantizar la viabilidad económica de la explotación de las obras.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "Las tarifas máximas para los servicios y actividades ofrecidos, como abonos, actividades acuáticas, cursos de natación, etc., se establecen con precios específicos para cada modalidad.",
+      "obligatorio": true,
+      "valor": null
+    },
+    {
+      "tipo": "economico",
+      "descripcion": "El riesgo operacional le corresponderá al contratista, quien deberá asumir el riesgo derivado de la exposición a las incertidumbres del mercado, la competencia de otros operadores, los desajustes entre la oferta y la demanda de los servicios, la insolvencia de los usuarios por los servicios prestados y la responsabilidad por los perjuicios causados.",
+      "obligatorio": true,
+      "valor": null
+    }
+  ]
+}
