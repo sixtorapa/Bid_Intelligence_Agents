@@ -25,6 +25,35 @@ Given a tender PDF and a company profile, the system aims to:
 The end goal is to help a bidding company quickly decide whether a tender is
 worth pursuing, and to accelerate drafting a competitive proposal.
 
+## Architecture
+
+The system is built as a [LangGraph](https://github.com/langchain-ai/langgraph)
+state graph: a shared `BidState` flows through five agent nodes, two
+conditional edges control routing (early exit on NO-GO, and a Writer ↔
+Reviewer revision loop capped at `MAX_ITERACIONES`).
+
+```mermaid
+flowchart TD
+    START([START]) --> extractor
+    extractor["extractor (real)<br/>PDF → Requisito list"] --> eligibility
+    eligibility["eligibility (real)<br/>score vs EmpresaProfile"]
+    eligibility -->|NO-GO| descarte["descarte<br/>build rejection reason"]
+    eligibility -->|"GO / GO with reservations"| research
+    research["research (stub)<br/>market context"] --> writer
+    writer["writer (stub)<br/>draft TechnicalProposal"] --> reviewer
+    reviewer["reviewer (stub)<br/>review proposal"]
+    reviewer -->|"not approved &amp;<br/>iteration &lt; MAX (3)"| writer
+    reviewer -->|"approved or<br/>iteration &gt;= MAX (3)"| output
+    descarte --> END1([END])
+    output["output<br/>export final proposal"] --> END2([END])
+
+    classDef real fill:#2d6a4f,stroke:#1b4332,color:#fff
+    classDef stub fill:#6c757d,stroke:#495057,color:#fff
+
+    class extractor,eligibility real
+    class research,writer,reviewer stub
+```
+
 ## Current state (Phase 1)
 
 | Agent | Status |
