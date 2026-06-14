@@ -75,8 +75,11 @@ with a working, demoable deliverable.
 | `research.py`, `writer.py`, `reviewer.py` | **Stubs** — hardcoded placeholder output, marked with `FASE` comments in the code. |
 | `graph.py`, `state.py`, `main.py` | Working end-to-end, orchestrating the two real agents plus the stubs. |
 
-Planned next steps: convert the remaining stub agents to real GPT-4o calls
-following the same pattern used in `eligibility.py`.
+Planned next steps: convert `writer.py` and `reviewer.py` to real GPT-4o
+calls following the same pattern used in `eligibility.py`. `research.py`
+stays a stub until Phase 2 — a research agent without live web access (MCP)
+couldn't produce real market context, so it becomes real together with the
+Brave Search MCP integration.
 
 ## Setup
 
